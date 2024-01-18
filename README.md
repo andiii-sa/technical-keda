@@ -1,3 +1,7 @@
+# Teknologi yang digunakan
+
+teknologi yang digunakan dalam tes ini hanya tailwindcss, karena tailwind ini sangat powerful dan flexible dalam penggunaannya
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
